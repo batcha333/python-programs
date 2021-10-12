@@ -1,0 +1,13 @@
+a=15
+b=26
+c=20
+if(a>b):
+    if(a>c):
+        print(a)
+    else:
+        print(c)
+else:
+    if(b>c):
+        print(b)
+    else:
+        print(c)
